@@ -1,4 +1,4 @@
 # Music Player Exercise REACT JS
 
-![My Image](exercisePlayer.png)
+<img src="src/assets/exercisePlayer.png" alt="Alt text" title="Optional title">
 
